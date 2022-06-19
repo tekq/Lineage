@@ -1,5 +1,10 @@
 # Lineage Builds
 
-My own builds for LineageOS, will usually be on the newest Android version available.
+Personal LineageOS builds
 
-## Hotdog Only!
+May be unstable(usually on the newest Android version)
+
+Use at your own risk!
+
+## !Hotdog Only! 
+Will not install on Guac/Guacb/Guacs/Hotdogb/Hotdogs
